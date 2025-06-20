@@ -125,7 +125,7 @@ export default function DashboardLayout({ children }) {
           <circle cx="12" cy="12" r="3" />
         </svg>
       ),
-      href: '/dashboard/settings',
+      href: '/dashboard/quiz',
       subItems: null,
     },
   ];
